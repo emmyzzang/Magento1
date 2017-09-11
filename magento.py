@@ -51,3 +51,5 @@ if not domain:
         )
 if domain == "DEFAULT":
     domain = DEFAULT_DOMAIN
+
+m = MySQL()
